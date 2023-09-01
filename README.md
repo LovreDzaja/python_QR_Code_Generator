@@ -9,3 +9,6 @@ Before running the script, make sure to install the `pyqrcode` library by openin
 ```shell
 pip install pyqrcode
 ```
+## General use
+
+After installing pyqrcode make sure to follow steps written in comments.
